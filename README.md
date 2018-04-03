@@ -1,4 +1,4 @@
-### Encryption Software
+## Encryption Software
 #### specs:
   * Allow user to select any file existing on his computer.
   * Allow user to encrypt the plain file using:
